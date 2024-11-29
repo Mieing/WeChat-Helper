@@ -1,0 +1,11 @@
+Package: com.st.wxhook
+Name:一包小薯条
+Depends: mobilesubstrate
+Description: Mieing Helper
+Maintainer:ST
+Author: ST
+Section: Tweaks
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Architecture: iphoneos-arm64
+Version: 5.2.0
+Installed-Size: 352
