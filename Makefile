@@ -8,7 +8,7 @@ INSTALL_TARGET_PROCESSES = SpringBoard
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = ddzs
+TWEAK_NAME = ybxst
 
 $(TWEAK_NAME)_FILES = $(wildcard src/*.xm) $(wildcard src/*.m)
 
